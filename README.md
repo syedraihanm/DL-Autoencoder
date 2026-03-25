@@ -170,7 +170,7 @@ train(model, train_loader, criterion, optimizer, epochs=5)
 visualize_denoising(model, test_loader)
 ```
 
-### OUTPUT
+
 
 ### Model Summary
 
